@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">manavoz2</string>
+    <string name="speech_prompt">Say something&#8230;</string>
+    <string name="speech_not_supported">Sorry! Your device doesn\'t support speech input</string>
+    <string name="text_hint">Su comando será escrito aquí</string>
+    <string name="speak_but_text">Tocar y comando</string>
+    <string name="title_activity_bt_devices">BtDevicesActivity</string>
+    <string name="Eslesmis_CihazlarButon">Eþleþmiþ Cihazlarý Göster</string>
+</resources>
